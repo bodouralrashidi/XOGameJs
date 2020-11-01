@@ -1,0 +1,39 @@
+*{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 50px;
+
+ }
+.box
+{
+   margin: 5px;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(253, 253, 253, 0.486);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+   
+  
+}
+.row
+{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center
+{   margin: 10px;
+    /* display: inline-block;
+   justify-content: center; */
+   text-align: center;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+   
+    
+}
